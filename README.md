@@ -1,5 +1,5 @@
 Cryptography-with-Python
 ========================
 
-Note: This code is from when I was ten. It's not very good.
+Note: This code is from when I was a beginner. No comments or anything
 
